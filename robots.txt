@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://milishet.github.io/sitemap
+Sitemap: https://milishet.github.io/app/sitemap
+Sitemap: https://milishet.github.io/assets/sitemap
+Sitemap: https://milishet.github.io/css/sitemap
+Sitemap: https://milishet.github.io/includes/sitemap
+Sitemap: https://milishet.github.io/item/sitemap
+Sitemap: https://milishet.github.io/src/sitemap
